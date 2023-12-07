@@ -26,7 +26,7 @@ This project requires external JAR files for optimal functionality. Follow the i
 2. Go to `File` > `Project Structure`.
 3. Select `Libraries` on the left panel.
 4. Select the `+` icon and choose `JAVA`.
-5. Select your JAR file or the directories containing it.
+5. Navigate to the "lib" folder and select your JAR file(s).
 6. Click on the `OK` button.
 
 ## Getting Started
